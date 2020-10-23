@@ -26,8 +26,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Main</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Inside the store</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#signup">Contact</a></li>
                     </ul>
                 </div>
@@ -37,8 +37,8 @@
         <header class="masthead">
             <div class="container d-flex h-100 align-items-center">
                 <div class="mx-auto text-center">
-                    <h1 class="mx-auto my-0 text-uppercase">Grayscale</h1>
-                    <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Bootstrap.</h2>
+                    <h1 class="mx-auto my-0 text-uppercase">Jibie restaurant</h1>
+                    <h2 class="text-white-50 mx-auto mt-2 mb-5">I want to eat Jibie</h2>
                     <a class="btn btn-danger js-scroll-trigger" href="views/registration.php">Registration</a>
                     <a class="btn btn-secondary js-scroll-trigger px-5" href="views/login.php">Sign in</a>
                 </div>
@@ -49,11 +49,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
-                        <h2 class="text-white mb-4">Built with Bootstrap 4</h2>
+                        <h2 class="text-white mb-4">Introducing Jibie</h2>
                         <p class="text-white-50">
-                            Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply download the template on
-                            <a href="https://startbootstrap.com/template-overviews/grayscale/">the preview page</a>
-                            . The theme is open source, and you can use it for any purpose, personal or commercial.
+                        Jibie cuisine is also an ingredient that contains nutrients that are good for the body. The meat that runs around the fields is low in fat and is recommended for those who care about their health and body shape!
                         </p>
                     </div>
                 </div>
@@ -68,8 +66,8 @@
                     <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/fabrizio-magoni-boaDpmC-_Xo-unsplash.jpg" alt="" /></div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
-                            <h4>Shoreline</h4>
-                            <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
+                            <h4>Cooking introduction</h4>
+                            <p class="text-black-50 mb-0">The menu uses carefully selected domestic ingredients such as meat and vegetables grown by producers who have the passion and affection that the chef himself visited and found.</p>
                         </div>
                     </div>
                 </div>
@@ -80,8 +78,8 @@
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Misty</h4>
-                                    <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
+                                    <h4 class="text-white">Inside the store</h4>
+                                    <p class="mb-0 text-white-50">A space created by comfortable lighting and atmosphere.</p>
                                     <hr class="d-none d-lg-block mb-0 ml-0" />
                                 </div>
                             </div>
@@ -95,8 +93,8 @@
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                                    <h4 class="text-white">Mountains</h4>
-                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+                                    <h4 class="text-white">Jibie</h4>
+                                    <p class="mb-0 text-white-50">Jibie grew up in mountains such as Hokkaido.</p>
                                     <hr class="d-none d-lg-block mb-0 mr-0" />
                                 </div>
                             </div>
